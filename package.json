@@ -7,14 +7,14 @@
 	},
   "keywords": [
     "jb",
-    "jb-dateinput",
-    "dateinput",
-    "jalali date",
+    "jb-image-uploader",
+    "image uploader",
+    "image-uploader",
     "react",
     "mobx"
   ],
   "version": "0.0.1",
-  "bugs": "https://github.com/javadbat/jb-dateinput-react/issues",
+  "bugs": "https://github.com/javadbat/jb-image-uploader-react/issues",
   "license": "MIT",
   "files": [
     "LICENSE",
@@ -22,14 +22,14 @@
     "lib/",
     "dist/"
   ],
-  "main": "dist/JBDateInput.cjs.min.js",
-  "jsnext:main":"./dist/JBDateInput.min.js",
-  "module": "./dist/JBDateInput.min.js",
+  "main": "dist/JBImageUploader.cjs.min.js",
+  "jsnext:main":"./dist/JBImageUploader.min.js",
+  "module": "./dist/JBImageUploader.min.js",
   "repository": {
 		"type": "git",
-		"url": "git@github.com:javadbat/jb-dateinput-react.git"
+		"url": "git@github.com:javadbat/jb-image-uploader-react.git"
 	},
   "dependencies": {
-    "jb-modules": "jb-modules@0.0.2"
+    "jb-modules": "jb-modules@0.0.3"
   }
 }
